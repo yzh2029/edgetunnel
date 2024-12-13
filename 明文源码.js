@@ -2,8 +2,8 @@
 import { connect } from 'cloudflare:sockets';
 
 let userID = 'd31cb7ea-78d1-4a12-87bb-40cf03656a4a';
-let proxyIP = '';
-let sub = '';
+let proxyIP = 'sjc.o00o.ooo';
+let sub = 'suv.notls.us.kg';
 let subConverter = 'SUBAPI.fxxk.dedyn.io';
 let subConfig = "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini_MultiMode.ini";
 let subProtocol = 'https';
